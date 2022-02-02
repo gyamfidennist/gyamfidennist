@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi there 👋 , you've reached [Gyamfi Dennis](gyamfidennist.com). While you are here, why not hit the follow button. I promise I have something fun on the stove 😁
 
-##I'm a full stack developer with a knack for devops
+## I'm a full stack developer with a knack for devops
 
 
 
