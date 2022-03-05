@@ -13,4 +13,6 @@ Hi there 👋 , you've reached [Gyamfi Dennis](gyamfidennist.com). While you are
  -->
 <!-- - 🔭 I’m currently working on -->
 <!-- - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on any interesting Typescript/Javascript project.
+
+
+👯 I’m looking to collaborate on any interesting Typescript/Javascript project.
