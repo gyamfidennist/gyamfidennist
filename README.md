@@ -8,5 +8,5 @@ Ask me about **TypeScript/JavaScript**, **React**, **Node.js** and everything el
 
 
 
- Reach Me:  👔 [Email](mailto:gyamfidennist@gmail.com)   |   📧 [LinkedIn](https://linkedin.com/gyamfidennist)
+ Reach Me:  👔 [Email](mailto:gyamfidennist@gmail.com)   |   📧 [LinkedIn](https://linkedin.com/in/gyamfidennist)
 
